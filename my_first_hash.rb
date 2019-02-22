@@ -4,7 +4,7 @@ end
 
 
 def shipping_manifest
-  hash = { "whale bone corsets" => "corsets", "whale bone corsets" => "corsets", "whale bone corsets" => "corsets", "whale bone corsets" => "corsets", "whale bone corsets" => "corsets", "porcelaine vases" => "vases", "porcelaine vases" => "vases", "oil paintings" => "paintings", "oil paintings" => "paintings", "oil paintings" => "paintings" }
+  hash = { "whale bone corsets" => "corsets", "whale bone corsets" => "corsets", "whale bone corsets" => "corsets", "whale bone corsets" => "corsets", "whale bone corsets" => "corsets", "porcelain vases" => "vases", "porcelain vases" => "vases", "oil paintings" => "paintings", "oil paintings" => "paintings", "oil paintings" => "paintings" }
 end
 
 def retrieval
